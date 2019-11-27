@@ -1,0 +1,15 @@
+Difference in O2 consumption between feeding and nonfeeding dive T-Test Result
+
+	One Sample t-test
+
+data:  sealData$difference
+t = 13.774, df = 9, p-value = 2.361e-07
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 26.56058 36.99942
+sample estimates:
+mean of x 
+    31.78 
+
+
+Thus the null hypothesis can be rejected. There is a statistical difference in mean O2 consumption between feeding and nonfeeding dives
